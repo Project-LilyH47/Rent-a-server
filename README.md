@@ -3,7 +3,7 @@
 
 Rentable servers we have 3 as of now
 
-- 1 [Used by an org] | i5 11th gen | 16GB RAM | 2TB SSD | RTX 2060 | No de, Via SSH, IP 216.231.253.120, Ubuntu 22.04 LTS | 150$/day + 100$ Data Tax
+- 1 [Used] | i5 11th gen | 16GB RAM | 2TB SSD | RTX 2060 | No de, Via SSH, IP 216.231.253.120, Ubuntu 22.04 LTS | 150$/day + 100$ Data Tax
 
 - 2 [Used] | i5 7th gen | 8GB RAM | 256GB SSD | iGPU | No de, Via SSH, IP 216.231.253.107, Ubuntu 22.04 LTS | 60$/day + 150$ Data Tax
 
