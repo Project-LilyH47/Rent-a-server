@@ -1,5 +1,5 @@
-## Rent a thing
-# Rent a server for anything you want, From us. Starting at 15$/day
+## Rent a Server
+# a server for anything you want, From us. Starting at 15$/day
 
 Rentable servers we have 3 as of now
 
